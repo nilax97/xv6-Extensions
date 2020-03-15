@@ -1,4 +1,4 @@
-# xv6_extensions
+# xv6-Extensions
 Extensions to [xv6](https://pdos.csail.mit.edu/6.828/2012/xv6.html) operating system done for course on Operating Systems at IIT Delhi
 
 ## Assignment 1
